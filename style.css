@@ -1,0 +1,13 @@
+.abc{
+   display: flex !important;
+   align-items: center !important;
+}
+nav{
+   position: sticky !important;
+   top: 0 !important;
+   z-index: 1000 !important;
+}
+.card{
+   /* border: 1px groove black !important; */
+   padding: 10px !important;
+}
